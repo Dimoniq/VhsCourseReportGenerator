@@ -1,0 +1,28 @@
+{
+  "Credentials": {
+    "Username": "",
+    "Password": ""
+  },
+  "Weeks": [
+    {
+      "Name": "Woche 1",
+      "Start": "13.04.2020",
+      "End": "19.04.2020"
+    },
+    {
+      "Name": "Woche 2",
+      "Start": "20.04.2020",
+      "End": "26.04.2020"
+    },
+    {
+      "Name": "Woche 3",
+      "Start": "27.04.2020",
+      "End": "03.05.2020"
+    },
+    {
+      "Name": "Woche 4",
+      "Start": "04.05.2020",
+      "End": "10.05.2020"
+    }
+  ]
+}
